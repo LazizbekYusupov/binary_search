@@ -4,6 +4,8 @@
 
 #define ARR_CAP 16
 
+
+//to be divided as a separate library
 int digital_search(int* a)
 {
   int l = 0;
